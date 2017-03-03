@@ -1,9 +1,9 @@
-# AddNews ReactJS
-В примере разбираются основы React.js<br/>
-Результатом будет небольшое приложение новостей, в котором можно добавить новость, а так же посмотреть у новости "подробнее".<br/>
+# NewsList ReactJs
+In the example understand the basics React.js<br/>
+The result is a small news app in which you can add news, as well as to look at the news "more".<br/>
 
-Источник: [https://www.gitbook.com/book/maxfarseer/react-course-ru/details](https://www.gitbook.com/book/maxfarseer/react-course-ru/details "Источник")<br/>
+A source: [https://www.gitbook.com/book/maxfarseer/react-course-ru/details](https://www.gitbook.com/book/maxfarseer/react-course-ru/details "A source")<br/>
 
 TODO:
-- Удаление новости<br/>
-- Офорление приложения
+- Deleting news<br/>
+- Making an application
