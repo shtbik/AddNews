@@ -1,4 +1,4 @@
-# NewsList ReactJs
+# NewsList ReactJS
 In the example understand the basics React.js<br/>
 The result is a small news app in which you can add news, as well as to look at the news "more".<br/>
 
